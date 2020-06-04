@@ -1,6 +1,32 @@
 let x = 3;
 let y = 10;
 let z = 5;
+let name = 'Crystal';
+let greeting = 'HEY';
+
+function multiply(x) {
+  multiply = x * x;
+}
+
+function modYBy() {
+  modYBy = y % x;
+}
+
+function opposite() {
+  z = opposite 
+  opposite = modYBy
+}
+
+function makeFullName () {
+  makeFullName = name + ' Young';
+  makeFullName = 'Crystal Young';
+}
+
+function yellAt ('pick up the phone') {
+  greeting = name + ', ' + '!';
+  greeting = name + yellAt;
+}
+
 
 /*********************************************************************************************************************
 
